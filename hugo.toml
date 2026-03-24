@@ -1,9 +1,10 @@
-baseURL = "https://rap.informationhot.kr/"
+baseURL = "https://apt.informationhot.kr/"
 languageCode = "ko"
 title = "부동산 시세 리포트"
 theme = "blowfish"
 enableRobotsTXT = true
-paginate = 20
+[pagination]
+  pagerSize = 20
 
 [params]
   colorScheme = "ocean"
