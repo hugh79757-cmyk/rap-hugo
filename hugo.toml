@@ -1,4 +1,5 @@
 baseURL = "https://apt.informationhot.kr/"
+googleAnalytics = "G-1Y92ZBWB8Q"
 languageCode = "ko"
 title = "부동산 시세 리포트"
 theme = "blowfish"
@@ -19,7 +20,7 @@ enableRobotsTXT = true
 
   [params.article]
     showDate = true
-    showReadingTime = true
+    showReadingTime = false
     showAuthor = false
     showHero = true
     heroStyle = "background"
