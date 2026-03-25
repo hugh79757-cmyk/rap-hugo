@@ -78,14 +78,10 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 2026년 03월 서울 성동구의 아파트 시장은 안정세를 보이며 24건의 거래가 있었습니다. 시세는 최고 239,000만원에서 최저 19,000만원까지 다양하게 형성되어 있습니다. 거래 분석을 통해 주요 단지의 시세를 확인하는 것이 필수적입니다.
 
 ---
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
-
-
 <div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
   <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 아파트실거래가 주변 지도로 확인하기</p>
   <a href="https://map.naver.com/v5/search/%EC%95%84%ED%8C%8C%ED%8A%B8%EC%8B%A4%EA%B1%B0%EB%9E%98%EA%B0%80%20%EC%95%84%ED%8C%8C%ED%8A%B8%20%EB%A7%A4%EB%AC%BC" target="_blank" rel="nofollow" style="display:inline-block;padding:10px 24px;background:#03C75A;color:white;border-radius:8px;text-decoration:none;font-weight:600;">네이버지도에서 보기</a>
-</div>> 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-
+</div>
 ---
 
 ## 신혼·입주 시 필요한 추천 가전
@@ -93,15 +89,16 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [삼성 비스포크 공기청정기](https://link.coupang.com/a/cmDN1e)
 - [LG 트롬 건조기](https://link.coupang.com/a/cmDN2f)
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
-
-
-## 함께 읽으면 좋은 글
-
-- [2026년 03월 부산아파트매매 시세 분석](/posts/2026년-03월-부산아파트매매-시세-분석/)
-- [2026년 03월 관악드림타운 부동산 시세 분석](/posts/2026년-03월-관악드림타운-부동산-시세-분석/)
-- [2026년 03월 대구아파트매매 시세 분석](/posts/2026년-03월-대구아파트매매-시세-분석/)
+---
 
 ---
 
 > 이 글은 국토교통부 실거래가 공공데이터를 기반으로 작성되었습니다. 투자 판단의 책임은 본인에게 있으며, 최신 정보는 [국토교통부 실거래가 공개시스템](https://rt.molit.go.kr)에서 확인하세요.
+
+> 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
+
+## 함께 읽으면 좋은 글
+
+- [2026년 03월 서울아파트 시세 분석](/posts/2026년-03월-서울아파트-시세-분석/)
+- [2026년 03월 관악드림타운 부동산 시세 분석](/posts/2026년-03월-관악드림타운-부동산-시세-분석/)
+- [2026년 03월 서울 영등포구 공시지가 동향](/posts/2026년-03월-서울-영등포구-공시지가-동향/)
