@@ -70,7 +70,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 ---
 
-## 신혼·입주 시 필요한 추천 가전
+## 부동산 거래 시 유용한 추천 상품
 
 - [파나소닉 안마의자 방문설치, EP-MAL1, 아이보리](https://link.coupang.com/a/ea8KwL) — 8,490,000원
 - [Qicco 침대 매트리스 무음 포켓스프링 바닥 매트리스, 20cm, 중간](https://link.coupang.com/a/ea8Kza) — 210,800원

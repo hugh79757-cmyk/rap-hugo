@@ -63,7 +63,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 ---
 
-## 신혼·입주 시 필요한 추천 가전
+## 부동산 거래 시 유용한 추천 상품
 
 - [삼성전자 BESPOKE AI 식기세척기 빌트인 12인용](https://link.coupang.com/a/ea2Db9) — 770,970원
 - [필립스 바리스티나 에스프레소 전자동 커피머신, BAR300/00, 밀키 화이트](https://link.coupang.com/a/ea2DfB) — 432,510원

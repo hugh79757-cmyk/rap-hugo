@@ -66,7 +66,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 ---
 
-## 신혼·입주 시 필요한 추천 가전
+## 부동산 거래 시 유용한 추천 상품
 
 - [매직쉐프 와인냉장고 18병 상하분리 온도조절](https://link.coupang.com/a/eaWU5B) — 328,990원
 - [삼성전자 AI 건조기 21kg 방문설치](https://link.coupang.com/a/eaWU8R) — 999,000원---
