@@ -75,16 +75,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [파나소닉 안마의자 방문설치, EP-MAL1, 아이보리](https://link.coupang.com/a/ea8KwL) — 8,490,000원
 - [Qicco 침대 매트리스 무음 포켓스프링 바닥 매트리스, 20cm, 중간](https://link.coupang.com/a/ea8Kza) — 210,800원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
-
-
-<div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
-  <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 아파트실거래가조회 주변 지도로 확인하기</p>
-  <a href="https://map.naver.com/v5/search/%EC%95%84%ED%8C%8C%ED%8A%B8%EC%8B%A4%EA%B1%B0%EB%9E%98%EA%B0%80%EC%A1%B0%ED%9A%8C%20%EC%95%84%ED%8C%8C%ED%8A%B8%20%EB%A7%A4%EB%AC%BC" target="_blank" rel="nofollow" style="display:inline-block;padding:10px 24px;background:#03C75A;color:white;border-radius:8px;text-decoration:none;font-weight:600;">네이버지도에서 보기</a>
-</div>
-
-
-## 함께 읽으면 좋은 글
+> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**## 함께 읽으면 좋은 글
 
 - [2026년 03월 은마아파트 시세 분석](/posts/2026년-03월-은마아파트-시세-분석/)
 - [2026년 03월 서울 영등포구 공시지가 동향](/posts/2026년-03월-서울-영등포구-공시지가-동향/)

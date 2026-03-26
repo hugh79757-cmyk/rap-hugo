@@ -69,13 +69,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 ## 신혼·입주 시 필요한 추천 가전
 
 - [매직쉐프 와인냉장고 18병 상하분리 온도조절](https://link.coupang.com/a/eaWU5B) — 328,990원
-- [삼성전자 AI 건조기 21kg 방문설치](https://link.coupang.com/a/eaWU8R) — 999,000원
-<div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
-  <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 공시지가 주변 지도로 확인하기</p>
-  <a href="https://map.naver.com/v5/search/%EA%B3%B5%EC%8B%9C%EC%A7%80%EA%B0%80%20%EC%95%84%ED%8C%8C%ED%8A%B8%20%EB%A7%A4%EB%AC%BC" target="_blank" rel="nofollow" style="display:inline-block;padding:10px 24px;background:#03C75A;color:white;border-radius:8px;text-decoration:none;font-weight:600;">네이버지도에서 보기</a>
-</div>
-
----
+- [삼성전자 AI 건조기 21kg 방문설치](https://link.coupang.com/a/eaWU8R) — 999,000원---
 
 ---
 
