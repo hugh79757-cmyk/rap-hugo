@@ -67,10 +67,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 - [삼성전자 BESPOKE AI 식기세척기 빌트인 12인용](https://link.coupang.com/a/ea2Db9) — 770,970원
 - [필립스 바리스티나 에스프레소 전자동 커피머신, BAR300/00, 밀키 화이트](https://link.coupang.com/a/ea2DfB) — 432,510원
-<div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
-  <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 은마아파트 주변 지도로 확인하기</p>
-  <a href="https://map.naver.com/v5/search/%EC%9D%80%EB%A7%88%EC%95%84%ED%8C%8C%ED%8A%B8%20%EC%95%84%ED%8C%8C%ED%8A%B8%20%EB%A7%A4%EB%AC%BC" target="_blank" rel="nofollow" style="display:inline-block;padding:10px 24px;background:#03C75A;color:white;border-radius:8px;text-decoration:none;font-weight:600;">네이버지도에서 보기</a>
-</div>
+
 
 ---
 
