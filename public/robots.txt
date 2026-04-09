@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://apt.informationhot.kr/sitemap.xml
