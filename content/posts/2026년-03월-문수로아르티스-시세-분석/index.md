@@ -46,7 +46,7 @@ thumbnail: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/2
 - [대림바스 신형 IPX7 방수 비데 풀터치 LED조명 올인원 쾌변유도 집중버블세정 마사지 DDS-S160A, DDS-S160A, 고객직접설치](https://link.coupang.com/a/eedvyF) — 189,000원
 - [위즈웰 인헨스2 스팀 전기오븐, WOP200](https://link.coupang.com/a/eedvDn) — 521,540원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 
